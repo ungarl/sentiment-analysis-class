@@ -1,5 +1,9 @@
-###Tentative course ouline:
+---
+layout: default
+title: Outline
+---
 
+###Tentative course ouline:
 
 1. Core Sentiment Analysis (SA)
   - SA types and uses

@@ -1,0 +1,8 @@
+pages are not being converted from .md to .html
+
+start every md page with  layout?
+---
+layout: default
+title: <Page/Post Title>
+---
+

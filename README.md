@@ -1,5 +1,8 @@
+---
+layout: default
+title: <Page/Post Title>
+---
 ###Tentative course ouline:
-
 
 1. Core Sentiment Analysis (SA)
   - SA types and uses

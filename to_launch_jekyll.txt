@@ -1,4 +1,7 @@
 to start jekyll:
 > bundle exec jekyll serve
-
 browse to http://localhost:4000
+
+to compile to hard copy:
+ jekyll build
+# => The current folder will be generated into ./_site

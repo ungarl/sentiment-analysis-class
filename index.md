@@ -30,9 +30,9 @@ Prerequisites:
     You might skip straight to the lecture on [regularization](https://www.youtube.com/watch?v=nmHNXsDPPFQ)
 
 
-[Outline](outline.md)
+[Outline](outline.html)
  - subject to change
 
-[Course Readings](readings.md)
+[Course Readings](readings.html)
   - reading are optional; read them afterwards to learn the details.
 

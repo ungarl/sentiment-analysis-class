@@ -1,3 +1,7 @@
+---
+layout: default
+title: Readings
+---
 ## Readings
 
 For more information:
@@ -35,7 +39,7 @@ For more information:
 ###Software
 
 - [Open source text mining and NLP tools](https://alliance.seas.upenn.edu/~datamine/wiki/index.php?title=Text_Mining)
-- [lexhub](lexhub.org)
+- [lexhub](http://lexhub.org)
 - LDA tools
   - [MALLET](http://mallet.cs.umass.edu/topics.php)
   - [FACTORIE](http://factorie.cs.umass.edu/)
