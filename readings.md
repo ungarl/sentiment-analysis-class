@@ -23,10 +23,11 @@ title: Readings
 
 3. SA extensions
 - Post and person
-  - [Personality, Gender, and Age in the Language of Social Media](journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791) Schwartz et al, PLOS One
+  - [Personality, Gender, and Age in the Language of Social Media](journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791) H. Andrew Schwartz ... Lyle H. Ungar, PLOS One, September 25, 2013
 - Emotion from hashtags
-  - [Using Hashtags to Capture Fine Emotion Categories from Tweets](saifmohammad.com/WebDocs/hashtags-MK.pdf)   Saif M. Mohammad, Svetlana Kiritchenko  January 2014 DOI: 10.1111/coin.12024
+  - [Using Hashtags to Capture Fine Emotion Categories from Tweets](saifmohammad.com/WebDocs/hashtags-MK.pdf)   Saif M. Mohammad, Svetlana Kiritchenko  January 2014
 - Community sentiment
+  - [Characterizing geographic variation in well-being using tweets](http://wwbp.org/papers/icwsm2013_cnty-wb.pdf)
 - Cross-lingual, cross-cultural
   - [Does 'well-being translate on Twitter'](http://wwbp.org/papers/EMNLP_2016_Does_well_being_translate_on_Twitter.pdf)
 - Multimedia
@@ -44,7 +45,8 @@ title: Readings
   - [FACTORIE](http://factorie.cs.umass.edu/)
 
 - NLP tools
-  - NLTK - being replaced by syntaxnet
+  - [NLTK](www.nltk.org)
+    - being replaced by syntaxnet
   - [syntaxnet](https://www.tensorflow.org/tutorials/syntaxnet/)
 
 -------------------------------------------------------------------------
@@ -52,10 +54,12 @@ title: Readings
 ### Lexica and corpora
 
 under development
-
-- ANEW
+ - [NRC Emotion Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
+- [lexhub](http://lexhub.org)
+- [ANEW](http://csea.phhp.ufl.edu/media/anewmessage.html)
+- [SocialSent](http://nlp.stanford.edu/projects/socialsent/)
 - SENTIWORDNET 3.0: An Enhanced Lexical Resource for Sentiment Analysis and Opinion Mining, Stefano Baccianella, Andrea Esuli, and Fabrizio Sebastiani
-
+- [Opinionfinder and the Subjectivity lexicon](http://mpqa.cs.pitt.edu/)
 - [SemEval-2016 Task 4: Sentiment Analysis in Twitter](http://anthology.aclweb.org/S/S16/S16-1001.pdf)
 Preslav Nakov, Alan Ritter, Sara Rosenthal, Fabrizio Sebastiani, Veselin Stoyanov
 
