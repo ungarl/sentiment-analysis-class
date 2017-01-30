@@ -2,9 +2,8 @@
 layout: default
 title: Readings
 ---
-## Readings
+### Readings
 
-For more information:
 
 1. Core Sentiment Analysis (SA)
   - [Opinion Mining and Sentiment Analysis](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf), Bo Pang and Lillian Lee (2008), 
@@ -36,7 +35,8 @@ For more information:
      - [Analyzing Personality through Social Media Profile Picture Choice](http://sites.sas.upenn.edu/danielpr/files/persimages16icwsm.pdf) Leqi, Liu, Daniel Preoţiuc-Pietro, Zahra Riahi, Mohsen E. Moghaddam, and Lyle Ungar.  in ICWSM., 2016
 
 ------------------------------------------------------------------------
-###Software
+
+### Software
 
 - [Open source text mining and NLP tools](https://alliance.seas.upenn.edu/~datamine/wiki/index.php?title=Text_Mining)
 - [lexhub](http://lexhub.org)
@@ -49,7 +49,8 @@ For more information:
   - [syntaxnet](https://www.tensorflow.org/tutorials/syntaxnet/)
 
 -------------------------------------------------------------------------
-###Lexica and corpora
+
+### Lexica and corpora
 
 under development
 

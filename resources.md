@@ -3,7 +3,8 @@ layout: default
 title: Resources
 ---
 
-##Readings
+currently just the [readings](readings.html)
 
-LDA
+
+
 
