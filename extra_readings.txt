@@ -1,0 +1,2 @@
+  - "Techniques and applications for sentiment analysis" Ronen Feldman, Communications of the ACM CACM, Volume 56 Issue 4, April 2013  Pages 82-89 
+     - very basic intro

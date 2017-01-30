@@ -25,10 +25,14 @@ Instructor
 
 Prerequisites: 
   - none
+  - if you want to study anything, take an introductory machine learning course such as
+    [Andrew Ng's ML coursera one](https://www.coursera.org/learn/machine-learning#syllabus).
+    You might skip straight to the lecture on [regularization](https://www.youtube.com/watch?v=nmHNXsDPPFQ)
+
 
 [Outline](outline.md)
  - subject to change
 
-[Course Readings](resources.md)
-  - reading are optional; read them afterwards to learn the details: readings.html
+[Course Readings](readings.md)
+  - reading are optional; read them afterwards to learn the details.
 
