@@ -23,9 +23,9 @@ title: Readings
 
 3. SA extensions
 - Post and person
-  - [Personality, Gender, and Age in the Language of Social Media](journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791) H. Andrew Schwartz ... Lyle H. Ungar, PLOS One, September 25, 2013
+  - [Personality, Gender, and Age in the Language of Social Media](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791) H. Andrew Schwartz ... Lyle H. Ungar, PLOS One, September 25, 2013
 - Emotion from hashtags
-  - [Using Hashtags to Capture Fine Emotion Categories from Tweets](saifmohammad.com/WebDocs/hashtags-MK.pdf)   Saif M. Mohammad, Svetlana Kiritchenko  January 2014
+  - [Using Hashtags to Capture Fine Emotion Categories from Tweets](http://saifmohammad.com/WebDocs/hashtags-MK.pdf)   Saif M. Mohammad, Svetlana Kiritchenko  January 2014
 - Community sentiment
   - [Characterizing geographic variation in well-being using tweets](http://wwbp.org/papers/icwsm2013_cnty-wb.pdf)
 - Cross-lingual, cross-cultural
